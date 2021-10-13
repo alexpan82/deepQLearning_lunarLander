@@ -1,4 +1,5 @@
 # Solving Lunar Lander using a Deep Q Network
+## Q-learning implemented from scratch
 This code base has 3 main functionalities:
 * Train an agent using DQN to solve Lunar Lander
 * Implement trained agent on the environment
