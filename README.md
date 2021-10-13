@@ -5,6 +5,8 @@ This code base has 3 main functionalities:
 * Implement trained agent on the environment
 * Plot training and performance results
 
+Methods and implementation based on Mnih et al: https://www.nature.com/articles/nature14236
+
 External Python packages used:
 * matplotlib v=3.3.4
 * numpy v=1.19.5
