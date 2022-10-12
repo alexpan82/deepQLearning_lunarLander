@@ -1,4 +1,7 @@
 # Solving Lunar Lander using a Deep Q Network
+## Write up and results
+https://drive.google.com/file/d/1qs1jjEt4KdS-vXIKUszHRIzNpr7huZfN/view?usp=sharing
+
 ## Q-learning implemented from scratch
 This code base has 3 main functionalities:
 * Train an agent using DQN to solve Lunar Lander
